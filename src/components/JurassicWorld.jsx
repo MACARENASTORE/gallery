@@ -1,4 +1,4 @@
-import jurassicworld from "../assets/img/jurassicworld.jpg"
+import jurassicworld from "../assets/img/jurassicworld.jpg";
 import PropTypes from 'prop-types';
 
 export const JurassicWorld = ( {className} ) => {

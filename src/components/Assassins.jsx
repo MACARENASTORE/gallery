@@ -1,4 +1,4 @@
-import assassins from "../assets/img/assassins.jpg"
+import assassins from "../assets/img/assassins.jpg";
 import PropTypes from 'prop-types';
 
 export const Assassins = ( {className} ) => {

@@ -1,4 +1,4 @@
-import halo from "../assets/img/halo.jpg"
+import halo from "../assets/img/halo.jpg";
 import PropTypes from 'prop-types';
 
 export const Halo = ( {className} ) => {

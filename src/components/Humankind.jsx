@@ -1,4 +1,4 @@
-import humankind from "../assets/img/humankind.jpg"
+import humankind from "../assets/img/humankind.jpg";
 import PropTypes from 'prop-types';
 
 export const Humankind = ( {className} ) => {
